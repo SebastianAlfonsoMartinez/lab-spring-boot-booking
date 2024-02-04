@@ -1,0 +1,11 @@
+server:
+  port: 8282
+
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
+  data:
+    mongodb:
+      uri: mongodb+srv://java:v4olXh3MisbhyCuh@cluster0.onolcpm.mongodb.net/java
+
