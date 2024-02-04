@@ -1,4 +1,4 @@
-package ada.org.laboratoriospringboot.controller.health;
+package ada.org.laboratoriospringboot.application.controller;
 
 
 import org.springframework.web.bind.annotation.RequestMapping;
